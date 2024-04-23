@@ -23,6 +23,7 @@ Test the C Program for the desired output.
 
 # PROGRAM:
 developed by : Stephen raj.Y
+
 Register No: 212223230217
 
 ## C Program to print process ID and parent Process ID using Linux API system calls
@@ -47,6 +48,7 @@ int main(void)
 	return 0; }
 ```
 ##OUTPUT
+
 ![image](https://github.com/23002248/Linux-Process-API-fork-wait-exec/assets/151701774/cf8214d6-4c03-47ad-a3d3-db6b1df17640)
 
 
@@ -71,6 +73,7 @@ exit(0);}
 
 
 ##OUTPUT
+
 ![image](https://github.com/23002248/Linux-Process-API-fork-wait-exec/assets/151701774/da579391-0b3b-4e89-892f-b842417a4d49)
 
 
@@ -91,6 +94,7 @@ int main()
 
 
 ##OUTPUT
+
 ![image](https://github.com/23002248/Linux-Process-API-fork-wait-exec/assets/151701774/a16f872f-5abe-4c3f-90db-e44360ab23d2)
 
 # RESULT:
